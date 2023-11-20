@@ -8,7 +8,6 @@ This repository contains Python implementations of path planning algorithms for 
 * Sample Runs
 * Dependencies
 * Contributing
-* License
 # Introduction
 Path planning is a crucial aspect of Mars Rover missions, enabling efficient navigation through various terrains while avoiding obstacles. This repository offers implementations of four different path planning algorithms to address this challenge.
 Implemented Algorithms
